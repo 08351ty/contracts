@@ -1,0 +1,8 @@
+[33m[WARN] latest version of remixd is 0.5.5, you are using 0.5.2[0m
+[33m[WARN] please update using the following command:[0m
+[33m[WARN] npm install @remix-project/remixd -g[0m
+[33m[WARN] You can only connect to remixd from one of the supported origins.[0m
+[33m[WARN] Any application that runs on your computer can potentially read from and write to all files in the directory.[0m
+[33m[WARN] Symbolic links are not forwarded to Remix IDE
+[0m
+[31m[ERR] There is already a client running on port 65522![0m
